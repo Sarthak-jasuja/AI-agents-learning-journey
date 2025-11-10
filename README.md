@@ -1,4 +1,4 @@
-# 🧠 Kaggle x Google – Generative AI 5-Day Intensive  
+# 🧠 Kaggle x Google – AI Agents 5-Day Intensive  
 
 I’m thrilled to begin the **Kaggle 5-Day AI Agents Intensive Course with Google** starting **today**! 🚀  
 
