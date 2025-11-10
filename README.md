@@ -1,6 +1,6 @@
 # 🧠 Kaggle x Google – Generative AI 5-Day Intensive  
 
-I’m thrilled to begin the **Kaggle 5-Day Generative AI Intensive Course with Google** starting **today**! 🚀  
+I’m thrilled to begin the **Kaggle 5-Day AI Agents Intensive Course with Google** starting **today**! 🚀  
 
 Over the next five days, I’ll be diving deep into the world of **AI agents**, exploring how they think, act, and evolve — from foundational concepts to building production-ready multi-agent systems.  
 This repository will serve as my **learning journal, notes, and code experiments** throughout the journey.  
